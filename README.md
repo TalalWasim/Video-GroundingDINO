@@ -64,7 +64,7 @@ If you find our work, this repository, or pretrained models useful, please consi
     author    = {Wasim, Syed Talal and Naseer, Muzammal and Khan, Salman and Yang, Ming-Hsuan and Khan, Fahad Shahbaz},
     title     = {Video-GroundingDINO: Towards Open-Vocabulary Spatio-Temporal Video Grounding},
     journal   = {arxiv},
-    year      = {2023},
+    year      = {2024},
 }
 ```
 
