@@ -1,6 +1,6 @@
 # Video-GroundingDINO: Towards Open-Vocabulary Spatio-Temporal Video Grounding
 
-[Syed Talal Wasim*](https://talalwasim.github.io),
+[Syed Talal Wasim](https://talalwasim.github.io),
 [Muzammal Naseer](https://muzammal-naseer.netlify.app/),
 [Salman Khan](https://salman-h-khan.github.io/),
 [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/),
